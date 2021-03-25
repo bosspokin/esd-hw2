@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
       <module fileurl="file://$PROJECT_DIR$/customerService/customerService.iml" filepath="$PROJECT_DIR$/customerService/customerService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kmitl-esd-exercise2-client-server-61090050-Boss.iml" filepath="$PROJECT_DIR$/kmitl-esd-exercise2-client-server-61090050-Boss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kmitl-esd-exercise3-61090050-Boss.iml" filepath="$PROJECT_DIR$/kmitl-esd-exercise3-61090050-Boss.iml" />
       <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
       <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
     </modules>

@@ -19,6 +19,7 @@
       <module name="customerService" target="15" />
       <module name="exercise2" target="15" />
       <module name="kmitl-esd-exercise2-client-server-61090050-Boss" target="15" />
+      <module name="kmitl-esd-exercise3-61090050-Boss" target="15" />
       <module name="model" target="15" />
       <module name="server" target="15" />
     </bytecodeTargetLevel>

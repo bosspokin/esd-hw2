@@ -1,7 +1,7 @@
 
 package th.kmitl.esd.api;
 
-import kmitl.esd.exercise2.model.CustomerDTO;
+import kmitl.esd.exercise3.model.CustomerDTO;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.*;

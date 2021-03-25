@@ -1,7 +1,6 @@
 package th.kmitl.esd.api;
 
-import kmitl.esd.exercise2.model.CustomerDTO;
-import org.junit.jupiter.api.AfterEach;
+import kmitl.esd.exercise3.model.CustomerDTO;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
